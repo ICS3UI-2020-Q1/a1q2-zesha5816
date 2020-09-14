@@ -17,7 +17,7 @@ public class Main {
     // TODO code application logic here
     int quotient = dividend / divisor;
     int remainder = dividend % divisor;
-		System.out.println(dividend + "/" + divisor + " is " + quotient + " with a remainder of " + remainder);
+		System.out.println(dividend + "/" + divisor + " is " + quotient + " with a remainder of " + remainder + ".");
         
 				
   }
