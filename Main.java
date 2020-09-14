@@ -11,7 +11,7 @@ public class Main {
    */
   public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
-	System.out.println("Please enter in two integers, on seperate lines, to divide.");
+	System.out.println("Please enter in two integers, on seperate lines, to divide");
 		int dividend = input.nextInt();
 		int divisor = input.nextInt();
     // TODO code application logic here
